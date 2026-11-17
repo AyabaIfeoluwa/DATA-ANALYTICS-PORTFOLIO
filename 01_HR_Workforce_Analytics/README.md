@@ -6,6 +6,20 @@ Employee attrition is an important challenge for organisations because high empl
 
 This project explores employee attrition patterns using the IBM HR Analytics Employee Attrition & Performance dataset. It applies data analysis and machine learning techniques to identify factors associated with employee turnover and develop a predictive model that can help organisations identify employees who may be at risk of leaving.
 
+## Project Screenshots
+
+### 1. Employee Attrition Distribution
+![Employee Attrition Distribution](./01_Employee_Attrition_Distribution.png)
+
+### 2. Attrition by Job Role
+![Attrition by Job Role](./02_Attrition_by_Job_Role.png)
+
+### 3. Model Performance Comparison
+![Model Performance Comparison](./03_Model_Performance_Comparison.png)
+
+### 4. Final Model Evaluation
+![Final Model Evaluation](./04_Final_Model_Evaluation.png)
+
 ## Project Objectives
 
 - Explore employee data to understand workforce characteristics.
