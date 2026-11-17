@@ -19,12 +19,13 @@ This repository documents my learning journey, practical experiences, and projec
 
 I'm currently exploring three major project areas:
 
-### 1. HR Workforce Analytics
-**Focus:** Employee Promotion and Retention Prediction.
+### 1. HR Workforce Analytics – Employee Attrition Analysis and Prediction
 
-Using employee data to identify factors influencing employee retention and explore predictive modelling.
+An exploratory data analysis and machine learning project focused on understanding employee attrition patterns and predicting potential employee turnover.
 
-**Status:** Dataset exploration.
+**Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn.
+
+[View Project](./01_HR_Workforce_Analytics/)
 
 ### 2. Credit Risk & Loan Default
 **Focus:** Loan Default Prediction.
