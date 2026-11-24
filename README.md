@@ -39,7 +39,7 @@ Analysing borrower and financial information to identify factors associated with
 
 **Status:** Completed.
 
-[View Project](https://github.com/Ayabalfeoluwa/DATA-ANALYTICS-PORTFOLIO/tree/main/02_Credit_Risk_and_Loan_Default)
+[View Project](./02_Credit_Risk_and_Loan_Default/)
 
 ### 3. Civic Service Operations
 **Focus:** Predicting Service Response Times.
