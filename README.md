@@ -25,14 +25,21 @@ An exploratory data analysis and machine learning project focused on understandi
 
 **Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn.
 
+**Status:** Completed.
+
 [View Project](./01_HR_Workforce_Analytics/)
 
-### 2. Credit Risk & Loan Default
-**Focus:** Loan Default Prediction.
+### 2. Credit Risk & Loan Default Prediction
 
-Analysing financial and borrower information to understand credit risk and develop a model for predicting loan default.
+**Focus:** Credit Risk Analysis and Loan Default Prediction.
 
-**Status:** Dataset exploration.
+Analysing borrower and financial information to identify factors associated with loan default and developing machine learning models to predict default risk.
+
+**Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn.
+
+**Status:** Completed.
+
+[View Project](https://github.com/Ayabalfeoluwa/DATA-ANALYTICS-PORTFOLIO/tree/main/02_Credit_Risk_and_Loan_Default)
 
 ### 3. Civic Service Operations
 **Focus:** Predicting Service Response Times.
